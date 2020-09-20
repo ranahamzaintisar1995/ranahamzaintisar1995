@@ -1,4 +1,4 @@
-### Hi I'm Rana Hamza Intisar
+### Hi I'm Hamza
 
 - I am a Data Engineer and a Data Scientist.
 - I am currently looking for data engineering roles in Germany.
