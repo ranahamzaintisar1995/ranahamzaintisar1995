@@ -1,4 +1,4 @@
-### Hi I'm Hamza
+### Hi I'm Hamza.
 
 - I am a Data Engineer and a Data Scientist.
 - I am currently looking for data engineer and data scientist roles in Germany.
